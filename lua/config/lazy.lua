@@ -34,13 +34,13 @@ require("lazy").setup({
   },
 })
 
-require("sg").setup({
-  -- Pass your own custom attach function
-})
+-- require("sg").setup({
+--   -- Pass your own custom attach function
+-- })
 
 require("cmp").setup({
   sources = {
-    { name = "cody" },
+    -- { name = "cody" },
     { name = "nvim_lsp" },
   },
 })

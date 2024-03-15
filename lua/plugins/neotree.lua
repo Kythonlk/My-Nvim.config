@@ -6,7 +6,7 @@ return {
         filtered_items = {
           -- hide_dotfiles = false,
           -- hide_hidden = false,
-          visible = ture,
+          visible = true,
         },
       },
     },
